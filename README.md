@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Effective software testing
 
 ![example workflow](https://github.com/effective-software-testing/code/actions/workflows/tests.yml/badge.svg)
@@ -32,3 +33,7 @@ If you do so, I ask you to create another file, with the same name as the origin
 ## License and reuse
 
 You are free to reuse and modify the code provided in this repository, for personal or business purposes, as long as the book is always explicitly mentioned as reference. For example, if you are providing training or workshops, you are required to have a dedicated slide with the picture of the book in each of the slide decks that make use of examples from here.
+=======
+# QA-Tester-Portfolio
+Personal repository showcasing my testing skills for NAB application
+>>>>>>> d4855de1b9ebebd883f9c14f7da35e5445dab42d
